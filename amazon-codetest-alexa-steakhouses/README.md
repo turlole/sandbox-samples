@@ -15,7 +15,7 @@ This ia an approach to take input a tuple list of (x,y) coordinates and returns 
 
 <br />
 
-**Takeaways**:
+**Notes about the application**:
 
 * This was a first pass at returning a list of sorted coordinates based on smallest distance to (0, 0).
 * Implementation takes advantage of [Insertion sort](https://en.wikipedia.org/wiki/Insertion_sort) to order the result by closest coordinate.
